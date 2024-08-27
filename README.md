@@ -1,7 +1,7 @@
 # Challenge !Bienvenido a mi proyecto¡
-Challenge Encriptador de Texto-Principiante en Programación
+Challenge Encriptador de Texto-Principiante en Programacion
 
-## Herramientas utilkzadas:
+## Herramientas utilizadas:
 * HTML
 * css
 * JavaScript
